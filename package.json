@@ -1,6 +1,6 @@
 {
   "name": "epub-fixer",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "epub-fixer": "file:",
     "jszip": "^3.10.1"
   }
 }
